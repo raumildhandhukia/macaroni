@@ -29,26 +29,3 @@ Macaroni is supported on Windows 10/11 and MacOS Ventura
 ```bash
   java -jar macaroniC.jar samples/prog.mc
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-## Authors
-
-- [Raumil Bharatbhai Dhandhukia](https://www.github.com/raumildhandhukia)
-- [@parvd](https://www.github.com/octokatherine)
-- [@chaityas](https://www.github.com/octokatherine)
-- [Austin Kwon](https://github.com/akwon20)
-- [Dhairya Dudhatra](https://github.com/Dhairya-Dudhatra)
-
-## Youtube Demonstration
-[https://www.youtube.com/watch?v=xC8dUAKgLGw](https://www.youtube.com/watch?v=xC8dUAKgLGw)
-
