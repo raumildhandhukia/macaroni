@@ -1,0 +1,6 @@
+To Update Grammar:
+
+Step 1: Modify the grammar (macaroni.g4 file)
+Step 2: cd to src/antlr folder using terminal
+Step 3: java -Xmx500M -cp path_to_antlr_jar org.antlr.v4.Tool -visitor macaroni.g4
+        Ex: java -Xmx500M -cp /Users/raumild/Desktop/final/SER502-Spring2023-Team7/lib/antlr-4.12.0-complete.jar org.antlr.v4.Tool -visitor macaroni.g4

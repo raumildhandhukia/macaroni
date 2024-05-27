@@ -1,0 +1,8 @@
+1) Create BIN: mkdir bin (skip this step if bin directory exists)
+2) Gen Classes: javac -cp lib/antlr-4.12.0-complete.jar -d bin src/antlr/*.java src/*.java
+3) Create manifest: nano manifest.mf (Skip this step if manifest.mf already exists)
+        Manifest-Version: 1.0
+        Main-Class: Main
+        Class-Path: lib/antlr-4.12.0-complete.jar
+4) create jar: jar cvfm macaroniC.jar manifest.mf -C bin .
+5) To Run: java -jar macaroniC.jar program/path
