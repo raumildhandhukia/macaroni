@@ -1,5 +1,5 @@
 <p>
-  <img align="right" src="./logo.svg" width="250">
+  <img align="right" src="./macaroni.png" width="250">
 </p>
 
 Welcome to Macaroni, a simple programming language that supports basic functions such as variable declaration, assignment, various expressions, ternary expression, conditional statements, while loop and for loops. Macaroni is implemented using ANTLR4 to generate parse tree and interpreter using the visitor pattern.
